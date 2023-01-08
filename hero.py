@@ -80,7 +80,7 @@ class Sups(SuperHero):
 
 
 
-first_hero = Sups('Aang', 'Avatar', 'elements', 100, 'I"m an Avatar!', 100)
+first_hero = Sups('Aang', 'Avatar', 'elements', 100, 'I"m an Avatar!', 100 )
 second_hero = Sups('Time Master', 'time', 100, 'I"ve no Time!', 100)
 villian = Sups('Cosmo', 'Boom', 'Bombs', 100, 'uhaha!', 50)
 
